@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<localitati xmlns="root">
+    <localitate name="l1">
+        <latN>49.80902</latN>
+        <latS>0</latS>
+        <longiE>38.33264</longiE>
+        <longiV>0</longiV>
+    </localitate>
+    <localitate name="l2">
+        <latN>25.78406</latN>
+        <latS>0</latS>
+        <longiE>23.94850</longiE>
+        <longiV>0</longiV>
+    </localitate>
+    <localitate name="Falticeni">
+        <latN>1.2</latN>
+        <latS>1.2</latS>
+        <longiE>1.2</longiE>
+        <longiV>1.2</longiV>
+    </localitate>
+</localitati>

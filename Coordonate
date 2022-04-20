@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localitati>
+<localitate>
+ <coordonate latN="44.3302" latS="0" longiE="23.7949" longiV="0"> <!--CRAIOVA--></coordonate>
+</localitate>
+<localitate>
+ <coordonate latN="44.4302" latS="0" longiE="24.3717" longiV="0"> <!--SLATINA--></coordonate>
+</localitate>
+<localitate>
+ <coordonate latN="44.4268" latS="0" longiE="26.1025" longiV="0"> <!--BUCURESTI--></coordonate>
+</localitate>
+<localitate>
+ <coordonate latN="45.7936" latS="0" longiE="24.1213" longiV="0"> <!--SIBIU--></coordonate>
+</localitate>
+<localitate>
+ <coordonate latN="46.7712" latS="0" longiE="23.6236" longiV="0"> <!--CLUJ-NAPOCA--></coordonate>
+</localitate>
+</localitati>
